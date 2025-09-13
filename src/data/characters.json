@@ -1,0 +1,209 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "ハローキティ",
+      "debut_year": 1974
+    },
+    {
+      "id": 2,
+      "name": "マイメロディ",
+      "debut_year": 1975
+    },
+    {
+      "id": 3,
+      "name": "リトルツインスターズ",
+      "debut_year": 1975
+    },
+    {
+      "id": 4,
+      "name": "ハローミミィ",
+      "debut_year": 1975
+    },
+    {
+      "id": 5,
+      "name": "タキシードサム",
+      "debut_year": 1979
+    },
+    {
+      "id": 6,
+      "name": "マイスウィートピアノ",
+      "debut_year": 1980
+    },
+    {
+      "id": 7,
+      "name": "ニャニィニュニェニョン",
+      "debut_year": 1980
+    },
+    {
+      "id": 8,
+      "name": "みんなのたあ坊",
+      "debut_year": 1984
+    },
+    {
+      "id": 9,
+      "name": "ハンギョドン",
+      "debut_year": 1985
+    },
+    {
+      "id": 10,
+      "name": "マロンクリーム",
+      "debut_year": 1985
+    },
+    {
+      "id": 11,
+      "name": "ノラネコランド",
+      "debut_year": 1985
+    },
+    {
+      "id": 12,
+      "name": "けろけろけろっぴ",
+      "debut_year": 1988
+    },
+    {
+      "id": 13,
+      "name": "ポチャッコ",
+      "debut_year": 1989
+    },
+    {
+      "id": 14,
+      "name": "あひるのペックル",
+      "debut_year": 1989
+    },
+    {
+      "id": 15,
+      "name": "バッドばつ丸",
+      "debut_year": 1993
+    },
+    {
+      "id": 16,
+      "name": "ポムポムプリン",
+      "debut_year": 1996
+    },
+    {
+      "id": 17,
+      "name": "チョコキャット",
+      "debut_year": 1996
+    },
+    {
+      "id": 18,
+      "name": "コロコロクリリン",
+      "debut_year": 1997
+    },
+    {
+      "id": 19,
+      "name": "ディアダニエル",
+      "debut_year": 1999
+    },
+    {
+      "id": 20,
+      "name": "ウサハナ",
+      "debut_year": 2000
+    },
+    {
+      "id": 21,
+      "name": "シナモロール",
+      "debut_year": 2001
+    },
+    {
+      "id": 22,
+      "name": "チャーミーキティ",
+      "debut_year": 2004
+    },
+    {
+      "id": 23,
+      "name": "シュガーバニーズ",
+      "debut_year": 2004
+    },
+    {
+      "id": 24,
+      "name": "クロミ",
+      "debut_year": 2005
+    },
+    {
+      "id": 25,
+      "name": "リトルフォレストフェロォ",
+      "debut_year": 2006
+    },
+    {
+      "id": 26,
+      "name": "ルロロマニック",
+      "debut_year": 2007
+    },
+    {
+      "id": 27,
+      "name": "ジュエルペット",
+      "debut_year": 2008
+    },
+    {
+      "id": 28,
+      "name": "yoshikitty",
+      "debut_year": 2009
+    },
+    {
+      "id": 29,
+      "name": "ウィッシュミーメル",
+      "debut_year": 2010
+    },
+    {
+      "id": 30,
+      "name": "SHOW BY ROCK!!",
+      "debut_year": 2012
+    },
+    {
+      "id": 31,
+      "name": "ぼんぼんりぼん",
+      "debut_year": 2012
+    },
+    {
+      "id": 32,
+      "name": "ぐでたま",
+      "debut_year": 2013
+    },
+    {
+      "id": 33,
+      "name": "KIRIMIちゃん.",
+      "debut_year": 2013
+    },
+    {
+      "id": 34,
+      "name": "こぎみゅん",
+      "debut_year": 2015
+    },
+    {
+      "id": 35,
+      "name": "まるもふびより",
+      "debut_year": 2017
+    },
+    {
+      "id": 36,
+      "name": "かぶきにゃんたろう",
+      "debut_year": 2017
+    },
+    {
+      "id": 37,
+      "name": "ミュークルドリーミー",
+      "debut_year": 2017
+    },
+    {
+      "id": 38,
+      "name": "JOCHUM",
+      "debut_year": 2020
+    },
+    {
+      "id": 39,
+      "name": "ぽっきょくてん",
+      "debut_year": 2021
+    },
+    {
+      "id": 40,
+      "name": "がおぱわるぅ",
+      "debut_year": 2022
+    },
+    {
+      "id": 41,
+      "name": "はなまるおばけ",
+      "debut_year": 2023
+    }
+  ]
+}
