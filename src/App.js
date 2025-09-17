@@ -27,7 +27,6 @@ function App() {
     <div className="App">
       <header className="app-header">
         <h1>サンリオキャラクター大賞 分析サイト</h1>
-        <p>株主向けデータ分析ダッシュボード</p>
       </header>
 
       <nav className="navigation">
