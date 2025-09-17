@@ -170,8 +170,6 @@ const VoteCharts = () => {
           },
           beforeTitle: function (tooltipItems) {
             // ツールチップの順序をその年の票数順に並び替え
-            const year = years[tooltipItems[0].dataIndex];
-
             tooltipItems.sort((a, b) => {
               const aVotes = a.parsed.y;
               const bVotes = b.parsed.y;
